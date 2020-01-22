@@ -1,2 +1,6 @@
 test of git
-add more lines after commit and in 'test' branch
+
+
+
+add more lines before branch commit
+
